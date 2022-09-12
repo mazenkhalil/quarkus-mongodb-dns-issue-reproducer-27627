@@ -1,0 +1,1 @@
+# quarkus-mongodb-dns-issue-reproducer-27627
